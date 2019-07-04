@@ -1,0 +1,15 @@
+{
+    "asset":"SDK-047",
+    "assetMap":"SDK",
+    "officialSiteUrl":"https://sdk.one/",
+    "contactEmail":"",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/sdk",
+        "Medium":"https://medium.com/harmony-one",
+        "Youtube":"https://harmony.one/youtube",
+        "Twitter":"https://twitter.com/harmonyprotocol",
+        "Facebook":"https://www.facebook.com/harmonyoneprotocol/",
+        "Github": "https://github.com/harmony-one"
+    }
+}
