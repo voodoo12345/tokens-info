@@ -1,0 +1,15 @@
+{
+  "asset":"X01-96B",
+  "assetMap":"X01",
+  "officialSiteUrl":"https://x01.net/",
+  "contactEmail":"",
+  "display":true,
+  "contact":{
+    "Telegram":"https://t.me/x01",
+    "Medium":"https://medium.com/x01",
+    "Youtube":"https://harmony.one/youtube",
+    "Twitter":"https://twitter.com/harmonyprotocol",
+    "Facebook":"https://www.facebook.com/harmonyoneprotocol/",
+    "Github": "https://github.com/x01"
+  }
+}
