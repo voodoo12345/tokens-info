@@ -1,0 +1,15 @@
+{
+    "asset":"BTT-3A8",
+    "assetMap":"BTT",
+    "officialSiteUrl":"https://btt.one/",
+    "contactEmail":"",
+    "display":true,
+    "contact":{
+        "Telegram":"https://t.me/btt",
+        "Medium":"https://medium.com/harmony-one",
+        "Youtube":"https://harmony.one/youtube",
+        "Twitter":"https://twitter.com/harmonyprotocol",
+        "Facebook":"https://www.facebook.com/harmonyoneprotocol/",
+        "Github": "https://github.com/harmony-one"
+    }
+}
