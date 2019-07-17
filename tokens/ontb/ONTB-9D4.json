@@ -1,6 +1,6 @@
 {
     "asset":"ONTB-9D4",
-    "assetMap":"ONT",
+    "assetMap":"ONTB",
     "officialSiteUrl":"https://ont.io",
     "contactEmail":"contact@ont.io",
     "display":true,
@@ -12,6 +12,9 @@
         "Discord": "https://discordapp.com/invite/4TQujHj",
         "Medium":"https://medium.com/ontologynetwork",
         "Youtube":"https://www.youtube.com/channel/UCXzLZJgDglAWRU0b2GOa7pA"
-
+        "Binance Info":"https://info.binance.com/en/currencies/ontology"
+        "Coinmarketcap":"https://coinmarketcap.com/currencies/ontology"
+        "Reddit":"https://www.reddit.com/r/OntologyNetwork"
+        "Linkedin":"https://www.linkedin.com/company/ontology-network-official"                
     }
 }
